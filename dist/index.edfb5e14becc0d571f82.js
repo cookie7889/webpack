@@ -1,0 +1,1 @@
+!function(){const o=(o,n)=>o*n;console.log(o(3,7)),console.log(o(5,6))}();
